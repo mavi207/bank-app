@@ -14,7 +14,7 @@ public class HDFCAccount implements BankAccountInterface{
     private String password;
     // password will be given by customer
     private double balance;
-    // balance will be given by customer
+    // balance will be given by customergit commit -m "submit"
 
     final double rateOfInterest=7.1;
     // made final soo that it the value cannot be changed its fixed
